@@ -1,0 +1,31 @@
+Ejecutando el notebook con 10**7 elementos
+El valor de 'value' es: 10000000
+Time taken by reduction operation: 2.554093599319458 seconds
+2.57 s ± 6.17 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 49999995000000
+
+Tiempo tardado mediante el bucle for: 0.43072962760925293 segundos
+Tiempo tardado con la función sum: 0.03160715103149414 segundos
+El tiempo que tarda con el bucle for es: 9.447265863418579 segundos
+El tiempo que tarda con la función sum es: 0.01411890983581543 segundos
+El tiempo que tarda con el bucle for es: 3.381216526031494 segundos
+El tiempo que tarda con la función sum es: 1.2016918659210205 segundos
+El tiempo que tarda con el bucle for es: 0.5005 segundos
+El tiempo que tarda con la función sum es: 0.4587 segundos
+Ejecutando el notebook con 10**8 elementos
+El valor de 'value' es: 100000000
+Time taken by reduction operation: 23.092956066131592 seconds
+23.7 s ± 378 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, value): 4999999950000000
+
+Tiempo tardado mediante el bucle for: 0.46166467666625977 segundos
+Tiempo tardado con la función sum: 0.030156612396240234 segundos
+El tiempo que tarda con el bucle for es: 97.63121843338013 segundos
+El tiempo que tarda con la función sum es: 0.1254746913909912 segundos
+El tiempo que tarda con el bucle for es: 3.7766075134277344 segundos
+El tiempo que tarda con la función sum es: 1.259533166885376 segundos
+El tiempo que tarda con el bucle for es: 0.1608 segundos
+El tiempo que tarda con la función sum es: 0.1129 segundos
+Ejecución completada
